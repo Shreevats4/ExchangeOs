@@ -1,0 +1,16 @@
+{
+  "name": "orderbook-scripts",
+  "version": "1.0.0",
+  "description": "Scripts for orderbook exchange",
+  "scripts": {
+    "generate-trades": "npx ts-node generate-trades.ts"
+  },
+  "dependencies": {
+    "axios": "^1.6.0"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.3.0"
+  }
+}
+

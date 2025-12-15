@@ -1,0 +1,1 @@
+{"root":["./src/redismanager.ts","./src/index.ts","./src/lib/database.ts","./src/routes/auth.ts","./src/routes/balance.ts","./src/routes/depth.ts","./src/routes/kline.ts","./src/routes/onramp.ts","./src/routes/order.ts","./src/routes/ticker.ts","./src/routes/trades.ts","./src/routes/withdraw.ts","./src/types/index.ts","./src/types/to.ts"],"version":"5.9.3"}
